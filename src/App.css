@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  background: rgba(216, 112, 147, 0.699);
+  padding: 20px;
+  color: white;
+}
+
+.search {
+  outline: none;
+  border: none;
+  padding: 5px;
+  border-radius: 3px;
+  width: 80%;
+}
